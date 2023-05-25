@@ -23,7 +23,7 @@ QuckDB: [click here](http://www.quickdatabasediagrams.com/)
 ### ERD Relationship Preview
 
 ```
-![ERD](https://github.com/dafreibe74/crowdfunding_ETL/blob/main/QuickDBD-crowdfunding%20ERD.png)
+![ERD](https://github.com/dafreibe74/crowdfunding_ETL/blob/main/crowdfunding%20ERD.png)
 ```
 
 ### Working Progress:
